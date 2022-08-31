@@ -1,0 +1,28 @@
+.details-container {
+    margin: 4rem 0;
+    padding: 2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.flag-container {
+    width: 70%;
+    height: 15rem;
+}
+
+.flag-container > img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.info-container {
+    margin-top: 2.5rem;
+    padding-left: 0;
+}
+
+.info-container > h3 {}
+.info-container > p {margin: 1rem 0;}
